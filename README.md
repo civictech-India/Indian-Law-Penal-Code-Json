@@ -9,3 +9,6 @@
 **Indian Penal Code, 1860** (*IPC India, Act No. 45 OF 1860*) | [ipc.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/ipc.json "ipc.json")
 
 **Negotiable Instruments Act, 1881** (*NIA India, Act No. 26 OF 1881*) | [nia.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/nia.json "nia.json")
+
+**The Motor Vehicles Act, 1988** (*MVA India, Act No. 59 OF 1988*) | [MVA.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/MVA.json "MVA.json")
+
