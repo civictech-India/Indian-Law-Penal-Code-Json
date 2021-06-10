@@ -12,3 +12,5 @@
 
 **The Motor Vehicles Act, 1988** (*MVA India, Act No. 59 OF 1988*) | [MVA.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/MVA.json "MVA.json")
 
+**Indian Divorce Act, 1869** (*IDA India, Act No. 4 OF 1869*) | [ida.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/ida.json "ida.json")
+
