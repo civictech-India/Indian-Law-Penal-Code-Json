@@ -25,4 +25,4 @@
 
 ##
 
-**ALL indian Legal Acts in a Single SQLite DB** | [indialaw.db](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/indialaw.db "indialaw.db")
+**ALL indian Legal Acts in a Single SQLite DB** | [indialaw.db](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/IndiaLaw.db "indialaw.db")
