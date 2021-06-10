@@ -1,4 +1,4 @@
-## Indian Law | Legal Bare Acts | Indian Penal Code in JSON Format
+## India Law | Indian Legal Acts | Penal Code in JSON Format
 
 **Code of Criminal Procedure, 1973** (*CrPC India, Act No. 2 OF 1974*) | [crpc.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/crpc.json "crpc.json")
 
