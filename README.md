@@ -4,6 +4,8 @@
 
 **Indian Penal Code, 1860** (*IPC India, Act No. 45 OF 1860*) | [ipc.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/ipc.json "ipc.json")
 
+**Civil Procedure Code, 1908** (*CPC India, Act No. 5 OF 1908*) | [cpc.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/cpc.json "cpc.json")
+
 ##
 
 **Hindu Marriage Act, 1955** (*HMA India, Act No. 25 OF 1955*) | [hma.json](https://github.com/civictech-India/Indian-Law-Penal-Code-Json/blob/main/hma.json "hma.json")
